@@ -5,5 +5,5 @@ I have been fascinated by how businesses make decisions ever since my university
 
 I extract, clean and explore data
 
-If you are seeing this, I am going to be uploading my projects on here. No copy/paste
+If you are seeing this, I have uploaded my projects on the repos that have projects in the name. The other repositories are for educational purposes. No copy/paste
 
