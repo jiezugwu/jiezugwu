@@ -7,10 +7,3 @@ I extract, clean and explore data
 
 If you are seeing this, I am going to be uploading my projects on here. No copy/paste
 
-Tools and Skills
-SQL
-Python
-Excel
-Tableau
-Power BI
-Claude
